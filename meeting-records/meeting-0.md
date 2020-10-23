@@ -91,3 +91,27 @@ cmd 输入`ssh root@101.133.217.104`, 就可以**以名字叫`root`的用户的�
 - `ctrl`+`z`: 撤销(undo)
 - `ctrl`+`y`: 撤销撤销(redo)
 - `ctrl`+`f`: **f**ind, 界面内查找
+
+### 提到的链接
+
+- [vscode下载地址](https://aka.ms/win32-x64-user-stable)
+- [我最推荐的知乎上的 vscode C语言配置教程](https://www.zhihu.com/question/30315894)
+- [chrome 浏览器下载地址](https://www.google.cn/chrome/)
+- [wtfjs](https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md)
+
+### vscode 插件推荐
+
+- `Chinese`: 为 vscode 添加中文支持
+- `TabNine`: 基于人工智能的自动补全
+- `c/c++`: c 语言支持
+- `c/c++ snippet`: 更好的 c 语言自动补全
+- `Markdown All In One`: 基本 markdown 支持
+- `Markdown Preview Enhance`: 更高级的 markdown 支持
+- `PowerMode`: 打出更带感的代码(需要在配置里手动启动)
+- `dark-plus-syntax`: 我最喜欢的主题配色
+- `Python`: python 支持
+- `Code Runner`: 添加执行代码的功能
+- `Rainbow Bracket`: 为配对括号添加颜色
+- `HTML Snippet`: 更好的 html 自动补全
+- `Open In Browser`: 更快的在浏览器打开 html 文件
+- `markdownlint`: markdown 代码规范检查
